@@ -44,6 +44,7 @@
 		EB5DA7E37F6F4F229BAF6FE3 /* FuturaPTBook.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3576EA998A8744779D22FBE9 /* FuturaPTBook.otf */; };
 		EF43201B4DE347D6B0034C94 /* FuturaPTCondMediumOblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 33E9B20070FA4EF2A4D8F28C /* FuturaPTCondMediumOblique.otf */; };
 		FF7BE626C741453793ADB319 /* FuturaPTMedium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9EBEB3E208554751975EE29A /* FuturaPTMedium.otf */; };
+		1A15F2DF9AB6479693BC5862 /* BootSplash.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D9C84114EAA4C6A972CC009 /* BootSplash.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -105,6 +106,7 @@
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		F4BF034D63CE4AF4A53E2A4C /* Futura Condensed Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Futura Condensed Medium.otf"; path = "../assets/fonts/Futura Condensed/Futura Condensed Medium.otf"; sourceTree = "<group>"; };
 		FC6D23C6375C46079647A81B /* FuturaPTBold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FuturaPTBold.otf; path = ../assets/fonts/Futura/FuturaPTBold.otf; sourceTree = "<group>"; };
+		4D9C84114EAA4C6A972CC009 /* BootSplash.storyboard */ = {isa = PBXFileReference; name = "BootSplash.storyboard"; path = "SimpleNews/BootSplash.storyboard"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +157,7 @@
 				13B07FB71A68108700A75B9A /* main.m */,
 				13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */,
 				43AD50D578CA036C488E9D71 /* PrivacyInfo.xcprivacy */,
+				4D9C84114EAA4C6A972CC009 /* BootSplash.storyboard */,
 			);
 			name = SimpleNews;
 			sourceTree = "<group>";
@@ -374,6 +377,7 @@
 				7488365C75EF4C1C8D8A6EF5 /* FuturaPTLightOblique.otf in Resources */,
 				FF7BE626C741453793ADB319 /* FuturaPTMedium.otf in Resources */,
 				AAE4211DD5DD4320AB123A07 /* FuturaPTMediumOblique.otf in Resources */,
+				1A15F2DF9AB6479693BC5862 /* BootSplash.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
