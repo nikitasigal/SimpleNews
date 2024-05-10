@@ -48,7 +48,7 @@ function NewsScreen() {
   return (
     <FlatList
       data={data.pages.flat()}
-      renderItem={({item}) => NewsItem(item)}
+      renderItem={({item}) => <NewsItem article={item} />}
       ItemSeparatorComponent={() => Spacer()}
       contentInsetAdjustmentBehavior="automatic"
       style={styles.container}

@@ -38,17 +38,21 @@ function timeSince(dateString: string): string {
   return `${interval}d`;
 }
 
-function NewsItem(item: Article) {
+type NewsItemProps = {
+  article: Article;
+};
+
+function NewsItem({article}: NewsItemProps) {
   getShadowProps();
 
   return (
     <View style={[styles.container, styles.shadow]}>
       <View style={styles.newsRow}>
-        {item.urlToImage && (
-          <Image source={{uri: item.urlToImage}} style={styles.image} />
+        {article.urlToImage && (
+          <Image source={{uri: article.urlToImage}} style={styles.image} />
         )}
         <Text style={styles.title} numberOfLines={4}>
-          {item.title}
+          {article.title}
         </Text>
       </View>
 
@@ -56,10 +60,10 @@ function NewsItem(item: Article) {
 
       <View style={styles.detailsRow}>
         <Text style={styles.detail} numberOfLines={1}>
-          {timeSince(item.publishedAt)}
+          {timeSince(article.publishedAt)}
         </Text>
         <Text style={styles.detail} numberOfLines={1}>
-          {item.source.name}
+          {article.source.name}
         </Text>
       </View>
     </View>
