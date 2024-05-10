@@ -104,6 +104,7 @@ const styles = StyleSheet.create({
     flex: 1,
     fontFamily: 'Futura Condensed Medium',
     fontSize: 24,
+    color: 'black',
   },
   image: {
     width: 120,

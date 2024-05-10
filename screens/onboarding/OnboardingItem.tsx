@@ -56,10 +56,12 @@ const styles = StyleSheet.create({
   title: {
     fontFamily: 'Futura Condensed Bold',
     fontSize: 36,
+    color: 'black',
   },
   subtitle: {
     fontFamily: 'Futura',
     fontSize: 20,
+    color: 'gray',
   },
 });
 
