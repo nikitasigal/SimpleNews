@@ -6,17 +6,17 @@ function OnboardingScreen({setFinished}) {
   const data: OnboardingContent[] = [
     {
       title: 'Welcome to SimpleNews!',
-      subtitle: 'The best place to get your news!',
+      subtitle: 'The best place to get your news',
       image: require('../../assets/images/newspaper.png'),
     },
     {
-      title: 'Welcome to SimpleNews!',
-      subtitle: 'The best place to get your news!',
+      title: "See what's important.",
+      subtitle: 'Intersting articles from reliable sources',
       image: require('../../assets/images/campaign.png'),
     },
     {
-      title: 'Welcome to SimpleNews!',
-      subtitle: 'The best place to get your news!',
+      title: 'Stay in touch.',
+      subtitle: '24/7 coverage',
       image: require('../../assets/images/notification.png'),
     },
   ];
