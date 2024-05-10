@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Futura Condensed/Futura Condensed Bold Italic.otf",
+      "sha1": "1d9a9e057caacf46246cdbb471d923273727d72e"
+    },
+    {
+      "path": "assets/fonts/Futura Condensed/Futura Condensed Bold Oblique.otf",
+      "sha1": "fd42d747c0ff1af433def745c6f64dc8ba548581"
+    },
+    {
+      "path": "assets/fonts/Futura Condensed/Futura Condensed Bold.otf",
+      "sha1": "83f60680b9d646e0add2aa758e95d9706f985c1f"
+    },
+    {
+      "path": "assets/fonts/Futura Condensed/Futura Condensed Medium Oblique.otf",
+      "sha1": "a29d3bad345df511c9d07e55f287a5ea5ef91ff9"
+    },
+    {
+      "path": "assets/fonts/Futura Condensed/Futura Condensed Medium.otf",
+      "sha1": "b80b5eecc96a3e9c682901ba4ce2bc2cca06b9ba"
+    },
+    {
+      "path": "assets/fonts/Futura Condensed/Futura Condensed Plain.ttf",
+      "sha1": "0c474fe18d385ebcc7375ec219962826aefbc77e"
+    },
+    {
+      "path": "assets/fonts/Futura Condensed/Futura Condensed Regular.ttf",
+      "sha1": "df63815253c39116d987dfd2f5e91df5af548637"
+    }
+  ]
+}

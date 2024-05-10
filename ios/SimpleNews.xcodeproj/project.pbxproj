@@ -12,9 +12,16 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		1711D72B066848D68EA9E068 /* Futura Condensed Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = DF15B06CFCF54F0EADFC5B84 /* Futura Condensed Bold.otf */; };
+		54CFB956D5114C26B7532521 /* Futura Condensed Plain.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 83A71330F97C4C14888EC7E8 /* Futura Condensed Plain.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-SimpleNews-SimpleNewsTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-SimpleNews-SimpleNewsTests.a */; };
+		80DC168A6C894B2E83FCDF8C /* Futura Condensed Bold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4C4DE4490F674B43BA8F1D71 /* Futura Condensed Bold Italic.otf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		88AAB0E0AE984C85B7650472 /* Futura Condensed Medium Oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 01368A9A44CB4855B65A7F2A /* Futura Condensed Medium Oblique.otf */; };
+		8D651BF735FB4B24930365B2 /* Futura Condensed Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 55DA47AD53B84ECF8AC4ED03 /* Futura Condensed Regular.ttf */; };
+		AF039D91D51B47AA9C71DE49 /* Futura Condensed Bold Oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2D11F79F77944FC7AA67F8B4 /* Futura Condensed Bold Oblique.otf */; };
 		C8071E2429CC5E7DFB9E7058 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 43AD50D578CA036C488E9D71 /* PrivacyInfo.xcprivacy */; };
+		E7BBF627E8A94D7B931CC82D /* Futura Condensed Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = F4BF034D63CE4AF4A53E2A4C /* Futura Condensed Medium.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,6 +38,7 @@
 		00E356EE1AD99517003FC87E /* SimpleNewsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SimpleNewsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* SimpleNewsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimpleNewsTests.m; sourceTree = "<group>"; };
+		01368A9A44CB4855B65A7F2A /* Futura Condensed Medium Oblique.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Futura Condensed Medium Oblique.otf"; path = "../assets/fonts/Futura Condensed/Futura Condensed Medium Oblique.otf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* SimpleNews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleNews.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = SimpleNews/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = SimpleNews/AppDelegate.mm; sourceTree = "<group>"; };
@@ -39,14 +47,20 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = SimpleNews/main.m; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = SimpleNews/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-SimpleNews-SimpleNewsTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SimpleNews-SimpleNewsTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D11F79F77944FC7AA67F8B4 /* Futura Condensed Bold Oblique.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Futura Condensed Bold Oblique.otf"; path = "../assets/fonts/Futura Condensed/Futura Condensed Bold Oblique.otf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-SimpleNews.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SimpleNews.debug.xcconfig"; path = "Target Support Files/Pods-SimpleNews/Pods-SimpleNews.debug.xcconfig"; sourceTree = "<group>"; };
-		43AD50D578CA036C488E9D71 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = SimpleNews/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		43AD50D578CA036C488E9D71 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = SimpleNews/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		4C4DE4490F674B43BA8F1D71 /* Futura Condensed Bold Italic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Futura Condensed Bold Italic.otf"; path = "../assets/fonts/Futura Condensed/Futura Condensed Bold Italic.otf"; sourceTree = "<group>"; };
+		55DA47AD53B84ECF8AC4ED03 /* Futura Condensed Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Futura Condensed Regular.ttf"; path = "../assets/fonts/Futura Condensed/Futura Condensed Regular.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-SimpleNews.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SimpleNews.release.xcconfig"; path = "Target Support Files/Pods-SimpleNews/Pods-SimpleNews.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-SimpleNews-SimpleNewsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SimpleNews-SimpleNewsTests.debug.xcconfig"; path = "Target Support Files/Pods-SimpleNews-SimpleNewsTests/Pods-SimpleNews-SimpleNewsTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-SimpleNews.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SimpleNews.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = SimpleNews/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		83A71330F97C4C14888EC7E8 /* Futura Condensed Plain.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Futura Condensed Plain.ttf"; path = "../assets/fonts/Futura Condensed/Futura Condensed Plain.ttf"; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-SimpleNews-SimpleNewsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SimpleNews-SimpleNewsTests.release.xcconfig"; path = "Target Support Files/Pods-SimpleNews-SimpleNewsTests/Pods-SimpleNews-SimpleNewsTests.release.xcconfig"; sourceTree = "<group>"; };
+		DF15B06CFCF54F0EADFC5B84 /* Futura Condensed Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Futura Condensed Bold.otf"; path = "../assets/fonts/Futura Condensed/Futura Condensed Bold.otf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F4BF034D63CE4AF4A53E2A4C /* Futura Condensed Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Futura Condensed Medium.otf"; path = "../assets/fonts/Futura Condensed/Futura Condensed Medium.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +141,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				BF04B713FDC44714AB245551 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -151,6 +166,21 @@
 				89C6BE57DB24E9ADA2F236DE /* Pods-SimpleNews-SimpleNewsTests.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		BF04B713FDC44714AB245551 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4C4DE4490F674B43BA8F1D71 /* Futura Condensed Bold Italic.otf */,
+				2D11F79F77944FC7AA67F8B4 /* Futura Condensed Bold Oblique.otf */,
+				DF15B06CFCF54F0EADFC5B84 /* Futura Condensed Bold.otf */,
+				01368A9A44CB4855B65A7F2A /* Futura Condensed Medium Oblique.otf */,
+				F4BF034D63CE4AF4A53E2A4C /* Futura Condensed Medium.otf */,
+				83A71330F97C4C14888EC7E8 /* Futura Condensed Plain.ttf */,
+				55DA47AD53B84ECF8AC4ED03 /* Futura Condensed Regular.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -249,6 +279,13 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				C8071E2429CC5E7DFB9E7058 /* PrivacyInfo.xcprivacy in Resources */,
+				80DC168A6C894B2E83FCDF8C /* Futura Condensed Bold Italic.otf in Resources */,
+				AF039D91D51B47AA9C71DE49 /* Futura Condensed Bold Oblique.otf in Resources */,
+				1711D72B066848D68EA9E068 /* Futura Condensed Bold.otf in Resources */,
+				88AAB0E0AE984C85B7650472 /* Futura Condensed Medium Oblique.otf in Resources */,
+				E7BBF627E8A94D7B931CC82D /* Futura Condensed Medium.otf in Resources */,
+				54CFB956D5114C26B7532521 /* Futura Condensed Plain.ttf in Resources */,
+				8D651BF735FB4B24930365B2 /* Futura Condensed Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -472,6 +509,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 757KZK47PP;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = SimpleNews/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -499,6 +537,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 757KZK47PP;
 				INFOPLIST_FILE = SimpleNews/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
